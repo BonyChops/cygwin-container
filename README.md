@@ -1,7 +1,8 @@
 # cygwin-container
-Run cygwin on container (run on Linux!)
+Run cygwin on container (works on Linux!)
 
 # Setup
+More details, check out [here](https://qiita.com/advent-calendar/2021/nnct) (not yet available).
 You have to create iso image that works cygwin.  
 
 ## Before you begin
